@@ -1,7 +1,7 @@
 {
   "name": "james-list",
   "version": "0.1.0",
-  "homepage": "https://heyjameskop.github.io/phonebook-git",
+  "homepage": "https://heyjameskop.github.io/phonebook",
   "private": true,
   "dependencies": {
     "react": "^18.3.1",

@@ -21,7 +21,7 @@ const EntryAdd = ({ entries, setEntries, prototype, setPrototype }) => {
     <section className="adding">
       <h2>Add Entry</h2>
       <form onSubmit={handleSubmit}>
-        <label htmlFor="name">Name:</label>
+        <label htmlFor="name">First Name:</label>
         <input
           id="name"
           onChange={(e) => updatePrototype("name", e.target.value)}
